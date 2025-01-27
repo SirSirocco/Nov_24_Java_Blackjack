@@ -12,7 +12,7 @@
 - João Marcello Amaral Lima
 - Pedro de Almeida Barizon
 
-Este projeto consiste em um jogo de Blackjack implementado em Java como forma de avaliação da disciplina de Programação Orientada a Objetos (POO) da PUC-Rio, de código INF1363. Obteve-se **grau máximo** pelo trabalho, que possibilitou a prática de conceitos de **POO**, da **arquitetura _Model-View-Control_** (MVC) e dos padrões de _design_ **_Facade_**, **_Observer_** e **_Singleton_**. Enquanto ambiente de desenvolvimento, utilizou-se o Eclipse IDE, juntamente com seu formatador de código nativo. Para informações mais minuciosas, por favor consulte a documentação no código fonte, feita em _javadoc_.
+Este projeto consiste em um jogo de Blackjack implementado em Java como forma de avaliação da disciplina de Programação Orientada a Objetos (POO) da PUC-Rio, de código INF1636. Obteve-se **grau máximo** pelo trabalho, que possibilitou a prática de conceitos de **POO**, da **arquitetura _Model-View-Control_** (MVC) e dos padrões de _design_ **_Facade_**, **_Observer_** e **_Singleton_**. Enquanto ambiente de desenvolvimento, utilizou-se o Eclipse IDE, juntamente com seu formatador de código nativo. Para informações mais minuciosas, por favor consulte a documentação no código fonte, feita em _javadoc_.
 
 ## English
 
